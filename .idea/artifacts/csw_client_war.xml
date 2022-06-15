@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="csw-client:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>csw-client</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="csw-client-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="csw-client:war exploded" />
+    </root>
+  </artifact>
+</component>
