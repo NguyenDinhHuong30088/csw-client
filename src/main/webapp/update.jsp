@@ -34,7 +34,7 @@
 
 <body>
 
-<div class="w3-container w3-blue">
+<div class="w3-container w3-brown">
     <h2>luong</h2>
 </div>
 
@@ -53,7 +53,7 @@
         <input class="w3-input" type="text" name="Quantity" value="<%=p.getQuantity()%>"></p>
     <p>
     <p>
-        <button class="w3-button w3-light-green" type="submit">Thêm</button></p>
+        <button class="w3-button w3-brown" type="submit">Thêm</button></p>
 </form>
 </div>
 

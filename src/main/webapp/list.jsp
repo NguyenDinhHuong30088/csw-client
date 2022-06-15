@@ -25,10 +25,10 @@
 
 <div class="w3-container">
   <h2>Sản phẩm</h2>
-  <a href="/create"><p><button class="w3-button w3-block w3-teal">Thêm mới</button></p></a>
+  <a href="/create"><p><button class="w3-button w3-red">Thêm mới</button></p></a>
   <table class="w3-table-all">
     <thead>
-    <tr class="w3-red">
+    <tr class="w3-yellow">
       <th>Tên</th>
       <th>Luong</th>
     </tr>
